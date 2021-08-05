@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  width: 10%;
+  margin: 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+.pp
+{
+  width: 360px;
+  height: 360px;
+  padding-top: 10px;
+  border-radius: 50%
+}
+
+.first
+{
+  width: 240px;
+  height: 240px;
+}
+
+.second
+{
+  width: 240px;
+  height: 240px
+}
+
+.Top-Container {
+  position: relative;
+  padding-top: 100px;
+  background-color: #B5EAEA;
+}
+
+.Middle-Container {
+
+}
+
+.Bottom-Container {
+
+}
+
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
